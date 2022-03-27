@@ -1,2 +1,2 @@
 # Rocket-chat-Guidance-App
-This app is created for any newcomer to begin his/her journey in Rocket-chat with proper direction.
+This is an app to be installed in Rocket-chat which will help newcomers to get guidance on how to start their journey in rocket-chat.
