@@ -1,4 +1,4 @@
-# Rocket-chat-Guidance-App
+# Apps.Community.Welcome
 This is an app to be installed in Rocket-chat which will help newcomers to get guidance on how to start their journey in rocket-chat with proper steps.
 
 ## How it Works:
