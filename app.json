@@ -4,13 +4,13 @@
     "requiredApiVersion": "^1.29.0",
     "iconFile": "icon.png",
     "author": {
-        "name": "ctx",
-        "homepage": "ctx",
-        "support": "ctx"
+        "name": "Rohan Kumar Pandey",
+        "homepage": "NA",
+        "support": "NA"
     },
-    "name": "ctxbar-example",
-    "nameSlug": "ctxbar-example",
+    "name": "Apps.Community.Welcome",
+    "nameSlug": "apps-community-welcome",
     "classFile": "CtxbarExampleApp.ts",
-    "description": "ctx",
+    "description": "This app is created for any newcomer to begin his/her journey in Rocket-chat with proper direction.",
     "implements": []
 }
